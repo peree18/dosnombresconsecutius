@@ -1,7 +1,7 @@
 int main{ 
 int x;
 int y; // y és menor que x
-if(y==x+1) {
+if(x==y+1) {
 print("els nombres són consecutius");
 }
 else{
